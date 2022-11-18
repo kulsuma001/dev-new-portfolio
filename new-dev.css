@@ -1,0 +1,62 @@
+.x {
+    color: aqua;
+}
+
+body {
+    margin: 0%;
+}
+
+.top-banner {
+    display: flex;
+    background-image: url(background/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+.half-p {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-p img {
+    width: 60%;
+    margin-top: 10%;
+}
+
+.dream-2 {
+    display: flex;
+    background-image: url(background/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-bottom: 100px;
+}
+
+.dream-1 img {
+    width: 60%;
+}
+
+.dream-1 {
+    width: 50%;
+}
+
+.flexible-try {
+    display: flex;
+}
+
+.shadow {
+    box-shadow: 20px 20px 60px grey;
+    padding-left: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#border-hobe {
+    border-left: 6px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+footer p {
+    font-style: italic;
+    text-align: center;
+}
